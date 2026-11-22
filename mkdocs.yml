@@ -1,5 +1,5 @@
 site_name: Fabric IQ Learn Tracker
-site_description: "What's new" and searchable history for the Microsoft Fabric IQ docs on Microsoft Learn
+site_description: "What's new and searchable history for the Microsoft Fabric IQ docs on Microsoft Learn"
 site_url: https://david-pizzi-msft.github.io/fabric-iq-learn-tracker/
 repo_url: https://github.com/david-pizzi-msft/fabric-iq-learn-tracker
 theme:
