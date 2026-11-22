@@ -167,7 +167,7 @@ def service(url):
 def write_report(today, new_pages, updated, removed, baseline, total):
     cutoff = (dt.date.fromisoformat(today) - dt.timedelta(days=BASELINE_DAYS)).isoformat()
     REPORTS.mkdir(parents=True, exist_ok=True)
-    if not baseline and not (new_pages or updated or removed) and (REPORTS / f"{today}.md").exists():
+    if not baseline and not (new_pages or updated or removed):
         return
     lines = ["---", f"title: \"Fabric IQ What's New: week of {today}\"", f"date: {today}", "---", "",
              f"# Fabric IQ What's New: {today}", ""]
@@ -209,7 +209,8 @@ def write_index():
     lines = ["---", "title: What's new", "---", "", "# Fabric IQ: What's new", "",
              "Changes to the [Microsoft Fabric IQ documentation](https://learn.microsoft.com/en-us/fabric/iq/), "
              "detected from each page's *Last updated on* date. Use the search box to look through the documentation history. "
-             "Earlier reports are in the [Archive](reports/index.md).", ""]
+             "Earlier reports are in the [Archive](reports/index.md).", "",
+             f"_Last checked: {load_manifest().get('lastScan', 'never')}. A new report appears only when something changed._", ""]
     if reports:
         body = reports[0].read_text("utf-8").split("---\n", 2)[-1]
         body = re.sub(r"^# .*\n", "", body.lstrip(), count=1)
