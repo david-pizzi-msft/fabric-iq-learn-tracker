@@ -6,6 +6,8 @@ title: What's new
 
 Changes to the [Microsoft Fabric IQ documentation](https://learn.microsoft.com/en-us/fabric/iq/), detected from each page's *Last updated on* date. Use the search box to look through the documentation history. Earlier reports are in the [Archive](reports/index.md).
 
+_Last checked: 2026-11-22. A new report appears only when something changed._
+
 ## Report: 2026-11-22
 
 
