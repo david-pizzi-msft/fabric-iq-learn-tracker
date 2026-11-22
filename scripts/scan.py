@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Weekly scan of Microsoft Learn Fabric IQ docs.
+"""Scan of Microsoft Learn Fabric IQ docs.
 
 Detects pages whose "Last updated on" date changed, refreshes the stored
 snapshot, and writes a "What's new" report (docs/reports/YYYY-MM-DD.md).
