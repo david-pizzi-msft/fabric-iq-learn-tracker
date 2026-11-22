@@ -1,12 +1,21 @@
-name: Weekly Fabric IQ scan
+﻿name: Weekly Fabric IQ scan
 
 on:
   schedule:
     - cron: "0 6 * * 1"   # Mondays 06:00 UTC
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [mkdocs.yml, requirements.txt, scripts/**, .github/workflows/**]
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   scan:
@@ -30,3 +39,19 @@ jobs:
             git commit -m "Weekly scan $(date -u +%F)"
             git push
           fi
+      - run: mkdocs build
+        env:
+          NO_MKDOCS_2_WARNING: "1"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
