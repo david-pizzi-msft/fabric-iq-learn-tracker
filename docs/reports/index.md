@@ -1,9 +1,9 @@
 ---
-title: What's new
+title: Archive
 ---
 
-# What's new
+# Archive
 
-One report per scan, newest first. Each lists the Fabric IQ pages that changed on Microsoft Learn, prefixed by service, with links to the changed sections.
+Past scan reports, newest first.
 
 - [2026-11-22](2026-11-22.md)

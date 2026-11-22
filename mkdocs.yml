@@ -20,5 +20,5 @@ markdown_extensions:
 not_in_nav: |
   /snapshots/
 nav:
-  - Home: index.md
-  - What's new: reports/index.md
+  - What's new: index.md
+  - Archive: reports/index.md

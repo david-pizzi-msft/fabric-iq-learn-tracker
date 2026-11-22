@@ -205,18 +205,18 @@ def write_report(today, new_pages, updated, removed, baseline, total):
 
 
 def write_index():
-    reports = sorted((r for r in REPORTS.glob("20*.md")), reverse=True)
-    lines = ["---", "title: Home", "---", "",
-             "# Fabric IQ Learn Tracker", "",
-             "Weekly “What's new” for the [Microsoft Fabric IQ documentation](https://learn.microsoft.com/en-us/fabric/iq/). "
-             "Updated pages are detected from each page's *Last updated on* date.", ""]
+    reports = sorted(REPORTS.glob("20*.md"), reverse=True)
+    lines = ["---", "title: What's new", "---", "", "# Fabric IQ: What's new", "",
+             "Changes to the [Microsoft Fabric IQ documentation](https://learn.microsoft.com/en-us/fabric/iq/), "
+             "detected from each page's *Last updated on* date. Use the search box to look through the documentation history. "
+             "Earlier reports are in the [Archive](reports/index.md).", ""]
     if reports:
-        lines += ["## Latest report", "", f"[{reports[0].stem}](reports/{reports[0].stem}.md)", "", "## Archive", ""]
-        lines += [f"- [{r.stem}](reports/{r.stem}.md)" for r in reports]
+        body = reports[0].read_text("utf-8").split("---\n", 2)[-1]
+        body = re.sub(r"^# .*\n", "", body.lstrip(), count=1)
+        lines += [f"## Report: {reports[0].stem}", "", body]
     (DOCS / "index.md").write_text("\n".join(lines) + "\n", "utf-8")
-    arch = ["---", "title: What's new", "---", "", "# What's new", "",
-            "One report per scan, newest first. Each lists the Fabric IQ pages that changed on Microsoft Learn, "
-            "prefixed by service, with links to the changed sections.", ""]
+    arch = ["---", "title: Archive", "---", "", "# Archive", "",
+            "Past scan reports, newest first.", ""]
     arch += [f"- [{r.stem}]({r.stem}.md)" for r in reports]
     (REPORTS / "index.md").write_text("\n".join(arch) + "\n", "utf-8")
 
