@@ -161,6 +161,8 @@ BASELINE_DAYS = 14
 def write_report(today, new_pages, updated, removed, baseline, total):
     cutoff = (dt.date.fromisoformat(today) - dt.timedelta(days=BASELINE_DAYS)).isoformat()
     REPORTS.mkdir(parents=True, exist_ok=True)
+    if not baseline and not (new_pages or updated or removed) and (REPORTS / f"{today}.md").exists():
+        return
     lines = ["---", f"title: \"Fabric IQ What's New: week of {today}\"", f"date: {today}", "---", "",
              f"# Fabric IQ What's New: {today}", ""]
     if baseline:
