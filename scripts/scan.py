@@ -156,6 +156,12 @@ def load_manifest():
 
 
 BASELINE_DAYS = 14
+SERVICES = {"plan": "Planning", "ontology": "Ontology", "connectors": "Connectors"}
+
+
+def service(url):
+    seg = slug(url).split("/")
+    return SERVICES.get(seg[0], seg[0].replace("-", " ").title()) if len(seg) > 1 else "Fabric IQ"
 
 
 def write_report(today, new_pages, updated, removed, baseline, total):
@@ -171,7 +177,7 @@ def write_report(today, new_pages, updated, removed, baseline, total):
         lines += [f"Baseline captured: **{total} pages** snapshotted. Below are the **{len(recent)} pages** "
                   f"updated on Microsoft Learn in the last {BASELINE_DAYS} days. Later reports show changes since the previous scan.", ""]
         for p in recent:
-            lines += [f"### [{p['title']}]({p['url']})", f"_Last updated {p['updated']}_", ""]
+            lines += [f"### {service(p['url'])} – [{p['title']}]({p['url']})", f"_Last updated {p['updated']}_", ""]
             intro = p.get("description") or first_sentence(split_sections(p["markdown"]).get("Introduction", ""), 220)
             if intro:
                 lines += [intro, ""]
@@ -184,22 +190,22 @@ def write_report(today, new_pages, updated, removed, baseline, total):
         if updated:
             lines += ["## Updated pages", ""]
             for p, old_date, bullets in updated:
-                lines += [f"### [{p['title']}]({p['url']})", f"_Last updated {old_date} → {p['updated']}_", ""]
+                lines += [f"### {service(p['url'])} – [{p['title']}]({p['url']})", f"_Last updated {old_date} → {p['updated']}_", ""]
                 lines += [f"- {b}" for b in bullets] or ["- Page metadata updated (no visible content change)"]
                 lines.append("")
         if new_pages:
             lines += ["## New pages", ""]
-            lines += [f"- [{p['title']}]({p['url']}) · {p['updated']}" for p in new_pages] + [""]
+            lines += [f"- **{service(p['url'])}** – [{p['title']}]({p['url']}) · {p['updated']}" for p in new_pages] + [""]
         if removed:
             lines += ["## Removed pages", ""]
-            lines += [f"- {r['title']} ({r['url']})" for r in removed] + [""]
+            lines += [f"- **{service(r['url'])}** – {r['title']} ({r['url']})" for r in removed] + [""]
     lines += ["---", "Source: [Microsoft Learn – Fabric IQ](https://learn.microsoft.com/en-us/fabric/iq/). "
               "Content © Microsoft, CC BY 4.0."]
     (REPORTS / f"{today}.md").write_text("\n".join(lines) + "\n", "utf-8")
 
 
 def write_index():
-    reports = sorted(REPORTS.glob("*.md"), reverse=True)
+    reports = sorted((r for r in REPORTS.glob("20*.md")), reverse=True)
     lines = ["---", "title: Home", "---", "",
              "# Fabric IQ Learn Tracker", "",
              "Weekly “What's new” for the [Microsoft Fabric IQ documentation](https://learn.microsoft.com/en-us/fabric/iq/). "
@@ -208,6 +214,11 @@ def write_index():
         lines += ["## Latest report", "", f"[{reports[0].stem}](reports/{reports[0].stem}.md)", "", "## Archive", ""]
         lines += [f"- [{r.stem}](reports/{r.stem}.md)" for r in reports]
     (DOCS / "index.md").write_text("\n".join(lines) + "\n", "utf-8")
+    arch = ["---", "title: What's new", "---", "", "# What's new", "",
+            "One report per scan, newest first. Each lists the Fabric IQ pages that changed on Microsoft Learn, "
+            "prefixed by service, with links to the changed sections.", ""]
+    arch += [f"- [{r.stem}]({r.stem}.md)" for r in reports]
+    (REPORTS / "index.md").write_text("\n".join(arch) + "\n", "utf-8")
 
 
 def main():

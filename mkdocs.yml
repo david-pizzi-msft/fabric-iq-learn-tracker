@@ -21,4 +21,4 @@ not_in_nav: |
   /snapshots/
 nav:
   - Home: index.md
-  - What's new: reports/
+  - What's new: reports/index.md
