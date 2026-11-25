@@ -1,63 +1,53 @@
 ---
-title: "Configure and manage security in planning"
+title: "Manage security in planning"
 ---
 
 !!! info "Snapshot"
-    Source: [https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-manage-security](https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-manage-security) · Last updated on **2026-11-11**
+    Source: [https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-manage-security](https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-manage-security) · Last updated on **2026-11-24**
 
 <!-- /meta -->
 You can try [signing in](#) or changing directories.
 
 Access to this page requires authorization. You can try changing directories.
 
-# Configure and manage security in planning
+# Manage security in planning
 
 Summarize this article for me
 
-Use **Security** in the planning sheet to control access to planning sheets and planning features by assigning users to one or more security roles.
+Security provides centralized role-based access control across your entire plan item, so you can govern who can view, edit, and manage sheets, data, and features.
 
-- You can create multiple roles with different permission levels and assign one or more roles to each user.
-- Configure security settings at the sheet level and for the planning features such as **Measures**, **Scenario**, **Writeback**, and **Comments**.
+- Role-based access: Create custom roles with granular permission levels and assign one or more roles to users or groups.
+- End-to-end coverage: Manage visibility and edit access across Planning, PowerTable, and Intelligence sheets. Configure PowerTable database security, and control feature permissions for Measures, Scenario, Writeback, Bookmarks, and Comments.
+- Workspace governance: Control whether workspace contributors can modify security settings and sheet configurations.
 
-In this article, you learn how to create and manage roles, set sheet-level and feature-level permissions for each role, and assign users to different roles.
+In this article, you learn how to configure contributor security controls, create and manage roles, set permissions for each role, and assign roles to users.
 
-To open the security window, select **Security** from the toolbar.
+## Configure security settings
 
-[![Screenshot of the planning sheet with the Security button highlighted in the top toolbar.](media/planning-how-to-manage-security/security.jpg)](media/planning-how-to-manage-security/security.jpg#lightbox)
+To open the Security window, select **Security** from the toolbar. The **Security** page has two tabs: **General** and **Roles**.
 
-The **Security** page has two tabs: **General** and **Roles**.
-
-Note
-
-If your item has PowerTable sheets, there's also a **PowerTable** tab to [manage PowerTable database security](powertable-how-to-configure-security-settings).
-
-[![Screenshot of the Security window showing the Users and Roles sections for assigning and configuring security roles.](media/planning-how-to-manage-security/security-page.png)](media/planning-how-to-manage-security/security-page.png#lightbox)
-
-- **General**: This tab includes options to [control workspace contributors' access](#workspace-contributor-security-controls) to the overall security and governance settings of the current Plan item. Use these options to specify whether all workspace contributors, selected contributors, or no contributors can manage security settings and sheet-related access configurations.
-- **Roles**: This tab includes two subsections for configuring security roles and assigning them to users:
-
+- **General**: This tab includes options to [control workspace contributors' access](#manage-workspace-security-controls) to the overall security and governance settings of the current plan item. Use these options to specify whether all workspace contributors, selected contributors, or no contributors can manage security settings and sheet-related access configurations.
+- **Roles**: This tab includes two sections for configuring security roles and assigning them to users:
   - **Users**: Use this section to [assign one or more configured security roles](#assign-roles-to-users) to users.
-  - **Roles**: Use this section to [create and configure security roles](#create-and-manage-roles) by defining the permissions and access levels associated with each role.
+  - **Roles**: Use this section to [create and configure security roles](#create-a-role) by defining the permissions and access levels associated with each role.
 
-## Workspace contributor security controls
+## Manage workspace security controls
 
-For a Plan item, **the item owner**, **workspace admins**, and **members** can always edit its security and governance settings available in the **Security** tab. These settings include configuring security roles, assigning roles to users, managing access to planning features such as writeback and scenarios, configuring PowerTable database security, and more.
+For a plan item, **the item owner**, **workspace admins**, and **members** can always edit its security and governance settings available in the **Security** tab. These settings include configuring security roles, assigning roles to users, managing access to planning features such as writeback and scenarios, configuring PowerTable database security, and more. Go to **Security** > **Security access** under the **General** tab to control whether workspace contributors can change security and governance settings and sheets-related access settings in the plan item.
 
-If you're the item owner, a workspace admin, or a member, go to **Security** > **Security access** under the **General** tab to control whether workspace contributors can *change* security and governance settings and sheets-related access settings in the Plan item.
+[![Screenshot of security options for contributors.](media/planning-how-to-manage-security/workspace-contributors-access.png)](media/planning-how-to-manage-security/workspace-contributors-access.png#lightbox)
 
-[![Screenshot of the Security access page with Specific Contributors only selected, two contributors chosen, and the Save button highlighted.](media/planning-how-to-manage-security/workspace-contributors-access.png)](media/planning-how-to-manage-security/workspace-contributors-access.png#lightbox)
+You can choose one of the following options:
 
-Choose one of the following options:
-
-- **Yes**: Allow all workspace contributors to manage security, governance, and sheet-related access settings in the Plan item.
-- **No**: Prevent workspace contributors from managing these settings.
-- **Specific Contributors only**: Allow only selected workspace contributors to manage these settings. If you select this option, enter the email addresses of the contributors you want to authorize.
+- **Yes**: Allow all workspace contributors to manage security and governance settings and sheets in the plan item.
+- **No**: Prevent workspace contributors from managing these settings and sheets.
+- **Specific Contributors only**: Allow only selected workspace contributors to manage these settings and sheets. If you select this option, enter the email addresses of the contributors you want to authorize.
 
 Select **Save** to apply the changes.
 
-This setting controls access to all security settings on the **Security** window, including PowerTable configurations such as *Approvals*, row access permissions in database tables, and Planning features' access configurations such as *Approvals*, *Scenarios*, *Writebacks*, and more.
+This setting controls access to all security settings on the **Security** window, including PowerTable configurations such as *Approvals*, *Row Access*, and *Column Access*, and planning features' access configurations such as *Approvals*, *Scenarios*, *Writeback*, and more.
 
-## Create and manage roles
+## Create a role
 
 Security roles define the permissions available to a group of users. Create multiple roles to provide different levels of access based on user responsibilities. After creating a role, assign it to one or more users.
 
@@ -65,192 +55,116 @@ Note
 
 The **Item Baseline** role is created by default and applies to all users. You can configure common permissions in this role or create additional roles to provide different access levels for different groups of users.
 
-## Create a role
-
-To create a role:
-
 1. In the **Security** window, select **Roles**.
 2. Select **Add Roles**.
-
-   [![Screenshot of the Add role dialog with a role name text box and Add button.](media/planning-how-to-manage-security/add-role.jpg)](media/planning-how-to-manage-security/add-role.jpg#lightbox)
 3. Enter a role name, and then select **Add**.
 
-   [![Screenshot of the Add Role dialog with Member entered in the Role Name box and the Add button highlighted.](media/planning-how-to-manage-security/add-role-name.png)](media/planning-how-to-manage-security/add-role-name.png#lightbox)
-4. Configure the required permissions for the role.
-5. Select **Save Changes**.
+   [![Screenshot of creating a new role titled budget contributor.](media/planning-how-to-manage-security/create-new-role.png)](media/planning-how-to-manage-security/create-new-role.png#lightbox)
+4. Configure the required permissions for the role from the **General** tab. For example, for a contributor role, you can grant Read + Write access to active planning sheets, set Intelligence dashboards to Read access, and hide restricted planning, PowerTable, and intelligence sheets so they remain invisible to users assigned to that role.
 
-   [![Screenshot of the Security Roles page with the Member role selected, sheet visibility and read-only toggles, and the Save Changes button highlighted.](media/planning-how-to-manage-security/save-changes.png)](media/planning-how-to-manage-security/save-changes.png#lightbox)
+   The following table describes each permission:
 
-After you create the role, assign it to users from the **Users** page.
+   | Permission | Description |
+   | --- | --- |
+   | Read | Allows users assigned to the selected role to view the sheet but prevents them from making edits. |
+   | Read + Write | Allows users assigned to the selected role to view and edit the sheet. |
+   | Hidden | Hides the sheet from users assigned to the selected role, preventing them from accessing it. |
 
-## Edit a role
+   [![Screenshot of assigning permissions for planning, intelligence, and powertable sheets.](media/planning-how-to-manage-security/assign-permissions-planning-powertable-intelligence-sheet.png)](media/planning-how-to-manage-security/assign-permissions-planning-powertable-intelligence-sheet.png#lightbox)
+5. Configure bookmark security in your planning sheet to restrict access by role. Assign the specific bookmarks a role can access. Users assigned to that role will only see their permitted bookmarks. To learn more about bookmarks, see [Save Analysis with Bookmarks](planning-how-to-add-bookmark).
 
-To rename a role:
+   [![Screenshot of selecting the bookmarks which can be accessed by the role.](media/planning-how-to-manage-security/bookmark-security-selection.png)](media/planning-how-to-manage-security/bookmark-security-selection.png#lightbox)
+6. Select **Save Changes**.
+7. After the role is created, assign it to users from the **Users** tab.
+8. To rename a role, select the edit (pencil) icon and enter the new name.
+9. To delete a role, select the delete (trash can) icon.
 
-1. In the **Roles** page, select the role that you want to edit.
-2. Select the **Edit** icon.
-3. Enter a new role name, and then select **Update**.
+   Note
 
-   [![Screenshot of the Roles page with the Member role selected and the edit and delete icons highlighted.](media/planning-how-to-manage-security/update-role.png)](media/planning-how-to-manage-security/update-role.png#lightbox)
+   The **Item Baseline** role is the default system role and can't be renamed or deleted.
+10. After configuring users and roles, select **Back to Sheet** to return to the planning sheet.
 
-Note
+## Configure planning sheet permissions
 
-Renaming a role updates only its name. The configured permissions remain unchanged.
+In the **Planning** tab, configure permissions for planning-specific features. The default permissions apply to all the planning sheets in the current plan item.
 
-## Delete a role
-
-To delete a role:
-
-1. In **Roles**, select the role that you want to delete.
-2. Select the **Delete** icon.
-3. Confirm the deletion.
-
-   [![Screenshot of the Roles pane with the Member role selected and its Delete icon highlighted, next to the General tab's sheet access settings.](media/planning-how-to-manage-security/delete-role.png)](media/planning-how-to-manage-security/delete-role.png#lightbox)
-
-Note
-
-You can't rename or delete the **Item Baseline** role because it's the default system role.
-
-## Configure general permissions
-
-The **General** tab controls access to all planning sheets in an item for the selected role. The item lists all available sheets individually, so you can configure visibility and editing permissions for each sheet.
-
-[![Screenshot of the Roles page with the General tab selected, showing Planning sheets with Visible and Read Only toggles.](media/planning-how-to-manage-security/general.png)](media/planning-how-to-manage-security/general.png#lightbox)
-
-Select the role on the left. Then, for every sheet, set the following permissions:
+- **Measure (Data input and forecast) and scenario permissions**
 
 | Permission | Description |
 | --- | --- |
-| **Visible** | Determines whether the sheet is visible to users assigned to the selected role. Disable this option to hide the sheet from users. |
-| **Read Only** | Allows users to view the sheet but prevents them from making changes. Disable this option to allow users to edit the sheet. |
+| **Hidden** | Hide measures and scenarios from users assigned to the selected role. |
+| **Read** | Allows users to view values but prevents them from making changes. |
+| **Read + Write** | Allows users to view and modify values. |
 
-By default, you can view and edit all sheets for the selected role. You can configure individual sheets to hide them or make them read-only as required.
-
-Important
-
-Enable the **Visible** toggle to make the sheet available to users. If you disable the **Visible** toggle, users can't access the sheet regardless of the **Read Only** setting.
-
-## Configure planning permissions
-
-Use the **Planning** tab to set permissions for planning-specific features. You can set permissions for each feature to either **All Sheets** or **Specific Sheets**.
-
-- **All Sheets** - Applies the permissions to all planning sheets.
-- **Specific Sheets** - Applies the permissions only to the selected sheets.
-
-[![Screenshot of the Planning tab in role settings showing Measures, Scenario, Writeback, and Comments sections, each set to All Sheets.](media/planning-how-to-manage-security/planning-permissions.png)](media/planning-how-to-manage-security/planning-permissions.png#lightbox)
-
-To set permissions for specific sheets:
-
-1. Select **Specific Sheets**.
-2. Select one or more sheets from the list to which you want to apply the permissions.
-
-   [![Screenshot of the Writeback section on the Planning tab with Specific Sheets selected and Planning 1 and Planning 2 checked for writeback.](media/planning-how-to-manage-security/select-specific-sheets.png)](media/planning-how-to-manage-security/select-specific-sheets.png#lightbox)
-
-Only sheets that contain the corresponding planning feature can be selected. For example, if a planning sheet doesn't contain a scenario, it appears disabled in the **Specific Sheets** list under **Scenario**.
-
-[![Screenshot of the Scenario section with Specific Sheets selected, showing Planning 1 disabled and a tooltip stating no scenario is available for this sheet.](media/planning-how-to-manage-security/feature-permission-example.png)](media/planning-how-to-manage-security/feature-permission-example.png#lightbox)
-
-The **Planning** tab lets you configure permissions for the following features:
-
-- **Measures (Data Input & Forecast measures)**
-- **Scenario**
-- **Writeback**
-- **Comments**
-
-### Measures
-
-Set permissions for accessing and modifying data input and forecast measures that are available in the planning sheets.
+- **Comment permissions**
 
 | Permission | Description |
 | --- | --- |
-| **Hidden** | Hides the measures from users assigned to the selected role. |
-| **Read** | Allows users to view measures but prevents them from making changes. |
-| **Read + Write** | Allows users to view and modify measures. |
+| **View** | Users assigned to the selected role can view all comments in the planning sheet. |
+| **Add** | Allows users to enter a new comment. |
+| **Lock/Unlock** | Allows users to lock or unlock comment threads for editing. |
+| **Star** | Users can emphasize important comments. |
 
-Note
+- **Writeback permissions**
 
-Any sheet that you don't explicitly configure under **Specific Sheets** defaults to **Read + Write** access.
+Allow users to write back planning data to OneLake or a Fabric SQL database.
 
-### Scenario
+[![Screenshot of access permission list for writeback, scenarios, measures, and comments.](media/planning-how-to-manage-security/default-access-permission-list.png)](media/planning-how-to-manage-security/default-access-permission-list.png#lightbox)
 
-Set whether users can access and work on Planning scenarios available across the planning sheets.
+You can also set permissions specific to a particular planning sheet.
 
-| Permission | Description |
-| --- | --- |
-| **View** | Allows users to view and work with scenarios. Clear this option to prevent users from accessing specific scenarios. |
+1. Select the **Select Sheet** button and choose the planning sheets to configure permissions.
 
-[![Screenshot of the Scenario section on the Planning tab with Specific Sheets selected, showing View checkboxes for scenarios in Planning 1 and Planning 2.](media/planning-how-to-manage-security/scenario-example.png)](media/planning-how-to-manage-security/scenario-example.png#lightbox)
+   [![Screenshot of selecting the consolidated profitability planning sheet to configure feature-wise access.](media/planning-how-to-manage-security/select-specific-planning-sheet-assign-access.png)](media/planning-how-to-manage-security/select-specific-planning-sheet-assign-access.png#lightbox)
+2. Use **Comment Access** permissions to determine whether users can perform actions such as creating or locking comment threads.
+3. Disable the **Writeback Access** toggle to prevent users from writing back planning data.
+4. To configure measure-level access, select the measures from the **Select Measure** list.
 
-### Writeback
+   [![Screenshot of selecting Sales Plan and Revenue Simulation measures.](media/planning-how-to-manage-security/select-measure-configure-access.png)](media/planning-how-to-manage-security/select-measure-configure-access.png#lightbox)
+5. Configure access for each selected measure.
 
-Set whether users can perform writeback operations on planning sheets.
+   [![Screenshot of assigning read, write, and hidden access to selected measures.](media/planning-how-to-manage-security/measure-permission-list.png)](media/planning-how-to-manage-security/measure-permission-list.png#lightbox)
+6. Similarly, if you created scenarios, select a scenario to configure permissions.
 
-| Permission | Description |
-| --- | --- |
-| **Writeback** | Allows users to write planning changes back to the data source. Clear this option to prevent writeback operations on specific planning sheets. |
-
-### Comments
-
-Set permissions for comments.
-
-Available permissions:
-
-| Permission | Description |
-| --- | --- |
-| **View** | Allows users to view comments. |
-| **Add** | Allows users to add comments. |
-| **Lock/Unlock** | Allows users to lock or unlock comments. |
-| **Star Comments** | Allows users to mark comments as starred. |
-
-You can enable or disable each permission independently for each created planning sheet or for all sheets at once.
+   [![Screenshot of assigning read and write permissions to the price increase and market expansion scenarios.](media/planning-how-to-manage-security/scenario-permissions.png)](media/planning-how-to-manage-security/scenario-permissions.png#lightbox)
 
 ## Assign roles to users
 
-After you configure one or more roles, assign them to users to control their access to planning sheets and features.
+After you configure one or more roles, assign them to users or groups to control their access to planning sheets and features.
 
 To assign roles to users:
 
 1. In the **Security** window, select **Users**.
 2. Select **Assign Role**.
 3. In the **Users or Groups** dropdown, select one or more users or Microsoft Entra ID groups.
-4. In the **Roles** dropdown, select one or more roles.
+4. In the **Roles** dropdown, select one or more roles. You can assign multiple roles to a user or group.
 5. Select **Add**.
 
-You can assign a user to multiple roles.
-
-[![Screenshot of the Security window Users page showing the Add Users dialog with Users and Roles dropdowns.](media/planning-how-to-manage-security/assign-roles-to-users.png)](media/planning-how-to-manage-security/assign-roles-to-users.png#lightbox)
+   [![Screenshot of assigning user groups to the executive viewer and budget contributor roles.](media/planning-how-to-manage-security/assign-roles-users.png)](media/planning-how-to-manage-security/assign-roles-users.png#lightbox)
 
 ## Permission precedence
 
 When you assign multiple roles to a user, the union of permissions from all assigned roles determines the user's effective access. If different roles define different permission levels for the same feature, the user gets the highest level of access.
 
-### Example
-
-Consider the configured permissions for the **Member** and **Lead** roles in the planning security settings.
+Consider the configured permissions for the *Member* and *Lead* roles in the planning security settings.
 
 | Feature | Member | Lead |
 | --- | --- | --- |
 | **Measures** | Read + Write | Read |
-| **Scenario** | View | View |
+| **Scenario** | Read + Write | Hidden |
 | **Writeback** | No | Yes |
 | **Comments** | View, Add | View, Add, Lock/Unlock, Star Comments |
 
-Suppose a user is assigned both the **Member** and **Lead** security roles.
-
-The effective permissions for the user are as follows:
+Suppose a user is assigned both the **Member** and **Lead** security roles. The effective permissions for the user are as follows:
 
 | Feature | Effective permission |
 | --- | --- |
 | **Measures** | Read + Write |
-| **Scenario** | View |
+| **Scenario** | Read + Write |
 | **Writeback** | Yes |
 | **Comments** | View, Add, Lock/Unlock, Star Comments |
 
-The user receives **Read + Write** access to **Measures** from the **Member** role and **Writeback** and advanced **Comments** permissions from the **Lead** role. Because permissions from all assigned roles are considered in union, the user receives the highest level of access available for each feature.
-
-### Return to the Planning sheet
-
-After configuring users and roles, select **Back to Sheet** to return to the Planning sheet.
+The user receives **Read + Write** access to **Measures** from the **Member** role and **Writeback** and advanced **Comments** permissions from the **Lead** role. The user receives the highest level of access available for each feature because planning considers permissions from all assigned roles.
 
 ---
 
