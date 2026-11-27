@@ -3,7 +3,7 @@ title: "Fabric planning tutorial part 0: Introduction and environment setup"
 ---
 
 !!! info "Snapshot"
-    Source: [https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-0-introduction](https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-0-introduction) · Last updated on **2026-10-01**
+    Source: [https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-0-introduction](https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-0-introduction) · Last updated on **2026-11-27**
 
 <!-- /meta -->
 You can try [signing in](#) or changing directories.
@@ -39,10 +39,6 @@ Before starting this tutorial series, verify that you have:
    [![Screenshot of capacity settings with XMLA endpoint options for read and write.](../../media/planning-tutorial/planning/tutorial-0-introduction/capacity-settings-xmla-endpoint-read-write.png)](../../media/planning-tutorial/planning/tutorial-0-introduction/capacity-settings-xmla-endpoint-read-write.png#lightbox)
 5. Installed Microsoft Edge or Google Chrome. Safari isn't supported for planning.
 6. Downloaded the data used in the planning sheet tutorials from the Fabric Samples GitHub repository: [Northwind\_FMCG.pbix](https://github.com/microsoft/fabric-samples/blob/main/docs-samples/iq/plan/Northwind_FMCG.pbix)
-
-Note
-
-Plan doesn't support Microsoft Entra B2B guest accounts. Workspaces that use private links aren't supported either.
 
 ## Business context
 
