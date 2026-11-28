@@ -1,1988 +1,1988 @@
 {
-  "lastScan": "2026-11-27",
+  "lastScan": "2026-11-28",
   "pages": {
     "connectors/agent-builder-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use Fabric IQ in Microsoft 365 Agent Builder",
       "updated": "2026-10-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/agent-builder-overview"
     },
     "connectors/copilot-power-bi-fabric": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Microsoft Copilot in Power BI and Microsoft Fabric (preview)",
       "updated": "2026-11-23",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/copilot-power-bi-fabric"
     },
     "connectors/cowork-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric IQ in Copilot Cowork",
       "updated": "2026-10-08",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/cowork-overview"
     },
     "connectors/fabric-iq-mcp": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Get started with the Fabric IQ MCP server",
       "updated": "2026-11-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/fabric-iq-mcp"
     },
     "connectors/microsoft-365-copilot-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric IQ in Microsoft 365 Copilot Chat",
       "updated": "2026-09-23",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview"
     },
     "connectors/overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric IQ integrations overview",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/overview"
     },
     "get-started-with-fabric-iq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Get started with Fabric IQ",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/get-started-with-fabric-iq"
     },
     "ontology/concepts-agent-integration": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Get started with agent integration for ontology (preview)",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/concepts-agent-integration"
     },
     "ontology/how-to-add-metadata": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add metadata (preview)",
       "updated": "2026-11-09",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-add-metadata"
     },
     "ontology/how-to-bind-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Data binding in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-bind-data"
     },
     "ontology/how-to-create-agent-copilot-studio": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build a Copilot Studio agent grounded in an ontology (preview)",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-agent-copilot-studio"
     },
     "ontology/how-to-create-agent-foundry-iq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build a Foundry IQ agent grounded in an ontology (preview)",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-agent-foundry-iq"
     },
     "ontology/how-to-create-data-agent": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create a data agent grounded in an ontology (preview)",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-data-agent"
     },
     "ontology/how-to-create-entity-types": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create entity types in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-entity-types"
     },
     "ontology/how-to-create-operations-agent": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create an operations agent grounded in an ontology (preview)",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-operations-agent"
     },
     "ontology/how-to-create-relationship-types": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create relationship types in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-create-relationship-types"
     },
     "ontology/how-to-generate-from-semantic-models": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Generate an ontology (preview) from semantic models",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-generate-from-semantic-models"
     },
     "ontology/how-to-import-export": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Import and export ontologies (preview)",
       "updated": "2026-11-09",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-import-export"
     },
     "ontology/how-to-reuse-properties": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Reuse shared properties in ontology (preview)",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-reuse-properties"
     },
     "ontology/how-to-share-permissions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage permissions and share an ontology (preview) item",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-share-permissions"
     },
     "ontology/how-to-use-inheritance": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Model with inheritance in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-inheritance"
     },
     "ontology/how-to-use-metrics": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Define business metrics in ontology (preview)",
       "updated": "2026-11-09",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-metrics"
     },
     "ontology/how-to-use-namespaces": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Organize ontology (preview) with namespaces",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-namespaces"
     },
     "ontology/how-to-use-ontology-agent": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use the ontology agent (preview) in Fabric",
       "updated": "2026-11-09",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontology-agent"
     },
     "ontology/how-to-use-ontology-graph": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Materialize a graph from an ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontology-graph"
     },
     "ontology/how-to-use-ontology-mcp-server": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Consume ontology (preview) as an MCP server",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontology-mcp-server"
     },
     "ontology/how-to-use-resource-links": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Link external resources in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-resource-links"
     },
     "ontology/how-to-use-rules": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create and manage business rules in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-rules"
     },
     "ontology/how-to-use-version-history": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage version history in ontology (preview)",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-version-history"
     },
     "ontology/how-to-view-ontology-details": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "View ontology details in ontology (preview)",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-view-ontology-details"
     },
     "ontology/old-experience/concepts-agent-integration": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Agent integration options for ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/concepts-agent-integration"
     },
     "ontology/old-experience/concepts-generate": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Generate an ontology (preview) from a semantic model - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/concepts-generate"
     },
     "ontology/old-experience/how-to-add-semantic-enrichment": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add semantic enrichment with metadata - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-add-semantic-enrichment"
     },
     "ontology/old-experience/how-to-bind-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Data binding in ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-bind-data"
     },
     "ontology/old-experience/how-to-create-entity-types": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Entity type creation in ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-create-entity-types"
     },
     "ontology/old-experience/how-to-create-relationship-types": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Relationship types in ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-create-relationship-types"
     },
     "ontology/old-experience/how-to-use-resource-links": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Resource links in ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-use-resource-links"
     },
     "ontology/old-experience/how-to-use-rules": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Rules in ontology (preview) (with Fabric Activator) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-use-rules"
     },
     "ontology/old-experience/how-to-view-entity-type-details": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Entity type details in ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/how-to-view-entity-type-details"
     },
     "ontology/old-experience/overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What is ontology (preview)? - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/overview"
     },
     "ontology/old-experience/resources-capacity-usage": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Capacity consumption for ontology (preview) - Old experience",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/old-experience/resources-capacity-usage"
     },
     "ontology/overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What is ontology (preview)?",
       "updated": "2026-10-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/overview"
     },
     "ontology/overview-tenant-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Required tenant settings for ontology (preview)",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/overview-tenant-settings"
     },
     "ontology/resources-capacity-usage": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Billing and capacity usage for the new ontology experience",
       "updated": "2026-10-14",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/resources-capacity-usage"
     },
     "ontology/resources-frequently-asked-questions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (Preview) Frequently Asked Questions",
       "updated": "2026-10-05",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/resources-frequently-asked-questions"
     },
     "ontology/resources-glossary": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) glossary",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/resources-glossary"
     },
     "ontology/resources-privacy-compliance-faq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Privacy and compliance FAQ for the ontology agent (preview) in Fabric",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/resources-privacy-compliance-faq"
     },
     "ontology/resources-responsible-ai-faq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Responsible AI FAQ for the ontology agent (preview) in Fabric",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/resources-responsible-ai-faq"
     },
     "ontology/resources-troubleshooting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Troubleshoot ontology (preview)",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/resources-troubleshooting"
     },
     "ontology/tutorial-0-introduction": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) tutorial part 0: Introduction and environment setup",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-0-introduction"
     },
     "ontology/tutorial-1-create-ontology": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) tutorial part 1: Create an ontology",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-1-create-ontology"
     },
     "ontology/tutorial-2-enrich-ontology": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) tutorial part 2: Enrich the ontology with additional data",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-2-enrich-ontology"
     },
     "ontology/tutorial-3-preview-ontology": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) tutorial part 3: Explore the ontology",
       "updated": "2026-11-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-3-preview-ontology"
     },
     "ontology/tutorial-4-use-agent": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) tutorial part 4: Use the ontology agent",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-4-use-agent"
     },
     "ontology/tutorial-5-conclusion": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Ontology (preview) tutorial part 5: Conclude and clean up resources",
       "updated": "2026-09-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-5-conclusion"
     },
     "overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What is Fabric IQ?",
       "updated": "2026-11-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/overview"
     },
     "plan/alm-variable-library": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "ALM \u00e2\u0080\u0093 Variable library",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/alm-variable-library"
     },
     "plan/capacity-throttling": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Capacity throttling in Fabric Planning",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/capacity-throttling"
     },
     "plan/faq-intelligence": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Intelligence sheets FAQ",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/faq-intelligence"
     },
     "plan/infobridge-concept-blend-measures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Visualize simulations, budgets, and forecasts",
       "updated": "2026-08-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-concept-blend-measures"
     },
     "plan/infobridge-concept-connected-planning": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Connected planning",
       "updated": "2026-07-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-concept-connected-planning"
     },
     "plan/infobridge-how-to-blend-measures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Blend measures by using Infobridge",
       "updated": "2026-08-24",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-blend-measures"
     },
     "plan/infobridge-how-to-consolidate-data-between-sheets": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Consolidate data between sheets",
       "updated": "2026-08-14",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-consolidate-data-between-sheets"
     },
     "plan/infobridge-how-to-create-bridge": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create a bridge to integrate and transform plans",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-create-bridge"
     },
     "plan/infobridge-how-to-manage-queries": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage query operations",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-manage-queries"
     },
     "plan/infobridge-how-to-manage-sources": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage sources",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-manage-sources"
     },
     "plan/infobridge-how-to-share-measures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Import measures between planning sheets with Infobridge",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-share-measures"
     },
     "plan/infobridge-how-to-use-dimension-level": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use dimension level in Infobridge",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-use-dimension-level"
     },
     "plan/infobridge-how-to-write-back-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Write back transformed data from Infobridge",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-how-to-write-back-data"
     },
     "plan/infobridge-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What is Infobridge in planning?",
       "updated": "2026-06-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-overview"
     },
     "plan/infobridge-transform-queries/how-to-append-query": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Append queries in Infobridge",
       "updated": "2026-07-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transform-queries/how-to-append-query"
     },
     "plan/infobridge-transform-queries/how-to-duplicate-query": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Duplicate a query in Infobridge",
       "updated": "2026-08-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transform-queries/how-to-duplicate-query"
     },
     "plan/infobridge-transform-queries/how-to-join-query": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Join queries in Infobridge",
       "updated": "2026-07-22",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transform-queries/how-to-join-query"
     },
     "plan/infobridge-transform-queries/how-to-merge-query": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Merge queries in Infobridge",
       "updated": "2026-07-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transform-queries/how-to-merge-query"
     },
     "plan/infobridge-transform-queries/how-to-sql-query": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SQL queries in Infobridge",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transform-queries/how-to-sql-query"
     },
     "plan/infobridge-transformations/infobridge-how-to-add-column": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add columns in Infobridge",
       "updated": "2026-06-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-add-column"
     },
     "plan/infobridge-transformations/infobridge-how-to-extract-comments": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Extract comments in Infobridge",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-extract-comments"
     },
     "plan/infobridge-transformations/infobridge-how-to-filter-rows": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Filter rows in Infobridge",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-filter-rows"
     },
     "plan/infobridge-transformations/infobridge-how-to-find-replace": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use Find and Replace in Infobridge",
       "updated": "2026-06-23",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-find-replace"
     },
     "plan/infobridge-transformations/infobridge-how-to-group-by": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure Group by transformations",
       "updated": "2026-06-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-group-by"
     },
     "plan/infobridge-transformations/infobridge-how-to-import-export": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Import and export transformation steps",
       "updated": "2026-07-09",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-import-export"
     },
     "plan/infobridge-transformations/infobridge-how-to-manage-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage columns in Infobridge",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-manage-columns"
     },
     "plan/infobridge-transformations/infobridge-how-to-pivot-column": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Pivot and unpivot columns in Infobridge",
       "updated": "2026-06-23",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-pivot-column"
     },
     "plan/infobridge-transformations/infobridge-how-to-pivot-table": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Pivot data in a planning sheet",
       "updated": "2026-06-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-pivot-table"
     },
     "plan/infobridge-transformations/infobridge-how-to-round": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use the Round transformation in Infobridge",
       "updated": "2026-07-08",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-round"
     },
     "plan/infobridge-transformations/infobridge-how-to-sort": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Sort data in Infobridge",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-sort"
     },
     "plan/infobridge-transformations/infobridge-how-to-text-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Text functions in Infobridge",
       "updated": "2026-07-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-text-functions"
     },
     "plan/infobridge-transformations/infobridge-how-to-unnest": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use the unnest transformation in Infobridge",
       "updated": "2026-07-03",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/infobridge-transformations/infobridge-how-to-unnest"
     },
     "plan/intelligence-how-to-apply-themes": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Apply and customize themes for standardization",
       "updated": "2026-06-24",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-apply-themes"
     },
     "plan/intelligence-how-to-build-financial-reports": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build financial reports with intelligence sheets",
       "updated": "2026-04-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-build-financial-reports"
     },
     "plan/intelligence-how-to-comment-collaborate": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Collaborate with comments in intelligence sheet",
       "updated": "2026-04-03",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-comment-collaborate"
     },
     "plan/intelligence-how-to-configure-filter-context": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure context awareness",
       "updated": "2026-09-15",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-configure-filter-context"
     },
     "plan/intelligence-how-to-create-dashboards": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build a dashboard in intelligence sheets",
       "updated": "2026-07-12",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-create-dashboards"
     },
     "plan/intelligence-how-to-create-gantt-chart": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Plan projects with Gantt charts",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-create-gantt-chart"
     },
     "plan/intelligence-how-to-create-paginated-reports": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Pagination and formatting for reports",
       "updated": "2026-07-22",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-create-paginated-reports"
     },
     "plan/intelligence-how-to-export-data-visuals": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Export high-quality PDF & Excel reports",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-export-data-visuals"
     },
     "plan/intelligence-how-to-get-started": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Get started with intelligence sheets",
       "updated": "2026-07-08",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-get-started"
     },
     "plan/intelligence-how-to-get-started-reporting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Get started with reporting",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-get-started-reporting"
     },
     "plan/intelligence-how-to-start-with-super-filters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use Super Filter",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-start-with-super-filters"
     },
     "plan/intelligence-how-to-switch-reading-editing-mode": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Switch between reading and editing modes",
       "updated": "2026-09-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-how-to-switch-reading-editing-mode"
     },
     "plan/intelligence-ibcs/how-to-apply-ibcs-formatting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Apply IBCS formats",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-apply-ibcs-formatting"
     },
     "plan/intelligence-ibcs/how-to-configure-ibcs-column-bar-charts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Column and bar charts",
       "updated": "2026-07-15",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-configure-ibcs-column-bar-charts"
     },
     "plan/intelligence-ibcs/how-to-configure-ibcs-line-area-charts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Area and line charts",
       "updated": "2026-07-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-configure-ibcs-line-area-charts"
     },
     "plan/intelligence-ibcs/how-to-configure-ibcs-scatter-bubble-charts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Scatter and bubble charts",
       "updated": "2026-09-15",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-configure-ibcs-scatter-bubble-charts"
     },
     "plan/intelligence-ibcs/how-to-configure-ibcs-small-multiples": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Small multiples",
       "updated": "2026-09-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-configure-ibcs-small-multiples"
     },
     "plan/intelligence-ibcs/how-to-configure-ibcs-tables": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Table templates",
       "updated": "2026-09-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-configure-ibcs-tables"
     },
     "plan/intelligence-ibcs/how-to-configure-ibcs-waterfall-charts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Waterfall charts",
       "updated": "2026-11-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-ibcs/how-to-configure-ibcs-waterfall-charts"
     },
     "plan/intelligence-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What are intelligence sheets in planning?",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/intelligence-overview"
     },
     "plan/onelake-enablement-tenant-setting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Migration to OneLake - Native planning engine in Fabric plan",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/onelake-enablement-tenant-setting"
     },
     "plan/overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What is planning in Fabric?",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview"
     },
     "plan/overview-limitations": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Known limitations in planning",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview-limitations"
     },
     "plan/overview-prerequisites": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Prerequisites for planning in Fabric",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview-prerequisites"
     },
     "plan/overview-roles": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "User roles and access management in Fabric Planning",
       "updated": "2026-10-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview-roles"
     },
     "plan/planning-allocation-rules-controls/how-to-use-locking-rules": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use locking rules in planning in Fabric",
       "updated": "2026-10-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-allocation-rules-controls/how-to-use-locking-rules"
     },
     "plan/planning-allocation-rules-controls/how-to-use-min-max-rule": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use a min-max rule",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-allocation-rules-controls/how-to-use-min-max-rule"
     },
     "plan/planning-allocation-rules-controls/overview-allocation-rules-controls": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Overview of allocation rules and controls",
       "updated": "2026-10-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-allocation-rules-controls/overview-allocation-rules-controls"
     },
     "plan/planning-concept-allocation-rules-controls": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Allocation rules and data input controls in planning sheet",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-allocation-rules-controls"
     },
     "plan/planning-concept-approval-workflow": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Approval workflow",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-approval-workflow"
     },
     "plan/planning-concept-bottom-up-planning": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Bottom-up planning",
       "updated": "2026-08-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-bottom-up-planning"
     },
     "plan/planning-concept-closing-forecast-period": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Closing forecast period",
       "updated": "2026-08-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-closing-forecast-period"
     },
     "plan/planning-concept-cube": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What is a cube?",
       "updated": "2026-08-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-cube"
     },
     "plan/planning-concept-fiscal-year-setup": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fiscal year setup in planning and reporting",
       "updated": "2026-07-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-fiscal-year-setup"
     },
     "plan/planning-concept-measure-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Measure Model - the semantic enrichment framework",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-measure-model"
     },
     "plan/planning-concept-predict": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Predict - statistical forecasting algorithms",
       "updated": "2026-08-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-predict"
     },
     "plan/planning-concept-reforecasting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Reforecasting",
       "updated": "2026-08-13",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-reforecasting"
     },
     "plan/planning-concept-row-level-security": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Row-level security (RLS) behavior in planning",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-row-level-security"
     },
     "plan/planning-concept-scenario-planning": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Scenario planning in Microsoft Fabric",
       "updated": "2026-08-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-scenario-planning"
     },
     "plan/planning-concept-top-down-planning": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Top-down planning",
       "updated": "2026-08-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-top-down-planning"
     },
     "plan/planning-concept-writeback": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Writeback",
       "updated": "2026-08-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-concept-writeback"
     },
     "plan/planning-conditional-formatting/concept-conditional-formatting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Conditional formatting",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/concept-conditional-formatting"
     },
     "plan/planning-conditional-formatting/how-to-apply-quick-formatting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Quick formatting options in conditional formatting",
       "updated": "2026-05-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/how-to-apply-quick-formatting"
     },
     "plan/planning-conditional-formatting/how-to-create-rules": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create conditional formatting rules",
       "updated": "2026-05-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/how-to-create-rules"
     },
     "plan/planning-conditional-formatting/how-to-format-classification": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure rules using format by classification",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/how-to-format-classification"
     },
     "plan/planning-conditional-formatting/how-to-format-color-scales": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure rules using format by color scale",
       "updated": "2026-05-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/how-to-format-color-scales"
     },
     "plan/planning-conditional-formatting/how-to-format-if": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure rules using IF conditions",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/how-to-format-if"
     },
     "plan/planning-conditional-formatting/how-to-manage-rules": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage conditional formatting rules",
       "updated": "2026-05-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-conditional-formatting/how-to-manage-rules"
     },
     "plan/planning-cubes/faq-cube": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Cube FAQ",
       "updated": "2026-08-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-cubes/faq-cube"
     },
     "plan/planning-cubes/how-to-create-cube": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Multidimensional expense allocation",
       "updated": "2026-08-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-cubes/how-to-create-cube"
     },
     "plan/planning-cubes/how-to-create-forecast-cube": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Multidimensional forecasting",
       "updated": "2026-08-05",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-cubes/how-to-create-forecast-cube"
     },
     "plan/planning-cubes/how-to-manage-cube-measures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage cube measures",
       "updated": "2026-08-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-cubes/how-to-manage-cube-measures"
     },
     "plan/planning-forecasting/forecasting-faq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Forecasting FAQ",
       "updated": "2026-07-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/forecasting-faq"
     },
     "plan/planning-forecasting/planning-how-to-build-forecasts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create a P&L forecast",
       "updated": "2026-11-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/planning-how-to-build-forecasts"
     },
     "plan/planning-forecasting/planning-how-to-configure-forecast-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure forecast settings",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/planning-how-to-configure-forecast-settings"
     },
     "plan/planning-forecasting/planning-how-to-create-statistical-forecasts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Generate statistical forecasts by using the Predict feature",
       "updated": "2026-08-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/planning-how-to-create-statistical-forecasts"
     },
     "plan/planning-forecasting/planning-how-to-distribute-deficits": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Allocate deficits to meet targets",
       "updated": "2026-09-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/planning-how-to-distribute-deficits"
     },
     "plan/planning-forecasting/planning-how-to-extend-time": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Extend planning beyond source data periods",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/planning-how-to-extend-time"
     },
     "plan/planning-forecasting/planning-how-to-manage-rolling-forecasts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Enable continuous planning with rolling forecasts",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-forecasting/planning-how-to-manage-rolling-forecasts"
     },
     "plan/planning-how-to-add-bookmark": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Save analysis and insights with bookmarks",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-add-bookmark"
     },
     "plan/planning-how-to-add-comments": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Comment and collaborate in planning sheet",
       "updated": "2026-07-22",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-add-comments"
     },
     "plan/planning-how-to-add-notes": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add notes in a planning sheet",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-add-notes"
     },
     "plan/planning-how-to-bulk-edit": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Bulk edit data",
       "updated": "2026-05-14",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-bulk-edit"
     },
     "plan/planning-how-to-change-layouts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure and customize layouts",
       "updated": "2026-05-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-change-layouts"
     },
     "plan/planning-how-to-configure-approval-workflows": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure approval workflows",
       "updated": "2026-07-23",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-configure-approval-workflows"
     },
     "plan/planning-how-to-configure-filter-context": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure filter context awareness",
       "updated": "2026-10-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-configure-filter-context"
     },
     "plan/planning-how-to-create-database-connection": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create a database connection for collaboration in a plan",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-create-database-connection"
     },
     "plan/planning-how-to-create-manage-home-layouts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure and manage role-based home layouts",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-create-manage-home-layouts"
     },
     "plan/planning-how-to-create-measure-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Measure-based modeling",
       "updated": "2026-08-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-create-measure-model"
     },
     "plan/planning-how-to-export-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Export data from planning sheets to Excel and PDF",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-export-data"
     },
     "plan/planning-how-to-get-started": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create a planning sheet",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-get-started"
     },
     "plan/planning-how-to-insert-columns/how-to-add-dropdown-options-from-semantic-models": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add dropdown options from semantic models",
       "updated": "2026-10-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-add-dropdown-options-from-semantic-models"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-checkbox-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert checkbox columns in planning sheet",
       "updated": "2026-09-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-checkbox-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-data-input-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert data input columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-data-input-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-date-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert date columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-date-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-dropdown-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert dropdown list columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-dropdown-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-formula-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert formula columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-formula-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-number-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert number columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-number-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-person-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert person columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-person-columns"
     },
     "plan/planning-how-to-insert-columns/how-to-insert-text-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert text input columns in planning sheet",
       "updated": "2026-08-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-columns/how-to-insert-text-columns"
     },
     "plan/planning-how-to-insert-rows-blank": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert blank rows",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-rows-blank"
     },
     "plan/planning-how-to-insert-rows-data-input": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert data input rows",
       "updated": "2026-08-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-rows-data-input"
     },
     "plan/planning-how-to-insert-rows-forecast": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert forecast rows",
       "updated": "2026-05-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-rows-forecast"
     },
     "plan/planning-how-to-insert-rows-formula": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert formula rows",
       "updated": "2026-05-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-rows-formula"
     },
     "plan/planning-how-to-insert-rows-template": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert template rows",
       "updated": "2026-05-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-insert-rows-template"
     },
     "plan/planning-how-to-manage-inserted-rows": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage inserted rows",
       "updated": "2026-08-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-manage-inserted-rows"
     },
     "plan/planning-how-to-manage-security": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage security in planning",
       "updated": "2026-11-24",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-manage-security"
     },
     "plan/planning-how-to-pivot-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Pivot data in planning sheets",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-pivot-data"
     },
     "plan/planning-how-to-set-up-scenarios": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Analyze planning outcomes with scenarios",
       "updated": "2026-07-20",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-set-up-scenarios"
     },
     "plan/planning-how-to-use-simulation-measures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use simulation measures in a planning sheet",
       "updated": "2026-08-03",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-how-to-use-simulation-measures"
     },
     "plan/planning-optimize/optimizer-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Optimize overview",
       "updated": "2026-08-12",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-optimize/optimizer-overview"
     },
     "plan/planning-optimize/planning-how-to-maximize-minimize-target-value": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Maximize or minimize a target value",
       "updated": "2026-08-12",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-optimize/planning-how-to-maximize-minimize-target-value"
     },
     "plan/planning-optimize/planning-how-to-optimize-derived-measures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Use Optimize on derived measures and allocation rules",
       "updated": "2026-08-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-optimize/planning-how-to-optimize-derived-measures"
     },
     "plan/planning-optimize/planning-how-to-optimize-input-values": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Optimize input values to meet a target",
       "updated": "2026-08-12",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-optimize/planning-how-to-optimize-input-values"
     },
     "plan/planning-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What are planning sheets within planning in Fabric?",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-overview"
     },
     "plan/planning-reference-formulas/conditional-statements": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Conditional statements",
       "updated": "2026-05-12",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/conditional-statements"
     },
     "plan/planning-reference-formulas/date-functions/create-format-convert-dates": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create, format, and convert dates",
       "updated": "2026-07-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/date-functions/create-format-convert-dates"
     },
     "plan/planning-reference-formulas/date-functions/extract-components-start-end-dates": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Extract date components and find start and end dates",
       "updated": "2026-07-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/date-functions/extract-components-start-end-dates"
     },
     "plan/planning-reference-formulas/date-functions/perform-date-calculations": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Perform date calculations",
       "updated": "2026-07-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/date-functions/perform-date-calculations"
     },
     "plan/planning-reference-formulas/formulas-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Formulas and functions in Fabric Plan",
       "updated": "2026-09-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/formulas-overview"
     },
     "plan/planning-reference-formulas/identifiers": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Identifiers",
       "updated": "2026-08-13",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/identifiers"
     },
     "plan/planning-reference-formulas/logical-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Logical functions",
       "updated": "2026-05-12",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/logical-functions"
     },
     "plan/planning-reference-formulas/lookup-functions/lookup": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "LOOKUP",
       "updated": "2026-10-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/lookup-functions/lookup"
     },
     "plan/planning-reference-formulas/lookup-functions/xlookup": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "XLOOKUP",
       "updated": "2026-10-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/lookup-functions/xlookup"
     },
     "plan/planning-reference-formulas/math-functions/aggregation-statistical-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Aggregation and statistical functions",
       "updated": "2026-06-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/math-functions/aggregation-statistical-functions"
     },
     "plan/planning-reference-formulas/math-functions/arithmetic-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Arithmetic functions",
       "updated": "2026-06-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/math-functions/arithmetic-functions"
     },
     "plan/planning-reference-formulas/math-functions/exponential-logarithmic-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Exponential and logarithmic functions",
       "updated": "2026-06-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/math-functions/exponential-logarithmic-functions"
     },
     "plan/planning-reference-formulas/math-functions/financial-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Financial functions",
       "updated": "2026-06-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/math-functions/financial-functions"
     },
     "plan/planning-reference-formulas/math-functions/random-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Random functions",
       "updated": "2026-10-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/math-functions/random-functions"
     },
     "plan/planning-reference-formulas/math-functions/rounding-formatting-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Rounding and formatting functions",
       "updated": "2026-06-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/math-functions/rounding-formatting-functions"
     },
     "plan/planning-reference-formulas/planning-reference-other-operators": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Other operators",
       "updated": "2026-09-03",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/planning-reference-other-operators"
     },
     "plan/planning-reference-formulas/statistical-functions/calculate-measures-central-tendency": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate measures of central tendency",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/statistical-functions/calculate-measures-central-tendency"
     },
     "plan/planning-reference-formulas/statistical-functions/calculate-normal-distribution": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate normal distribution values",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/statistical-functions/calculate-normal-distribution"
     },
     "plan/planning-reference-formulas/statistical-functions/calculate-percentiles-percent-ranks": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate percentiles and percent ranks",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/statistical-functions/calculate-percentiles-percent-ranks"
     },
     "plan/planning-reference-formulas/statistical-functions/calculate-ranking-quartiles": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate ranking and quartiles",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/statistical-functions/calculate-ranking-quartiles"
     },
     "plan/planning-reference-formulas/statistical-functions/calculate-variance-standard-deviation": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate variance and standard deviation",
       "updated": "2026-08-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/statistical-functions/calculate-variance-standard-deviation"
     },
     "plan/planning-reference-formulas/text-functions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Text formatting functions",
       "updated": "2026-06-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/text-functions"
     },
     "plan/planning-reference-formulas/time-intelligence-functions/period-to-date-calculations": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Period-to-date calculations",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/time-intelligence-functions/period-to-date-calculations"
     },
     "plan/planning-reference-formulas/time-intelligence-functions/relative-time-periods": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate relative time periods",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/time-intelligence-functions/relative-time-periods"
     },
     "plan/planning-reference-formulas/time-intelligence-functions/specific-time-periods": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Calculate specific time periods",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/time-intelligence-functions/specific-time-periods"
     },
     "plan/planning-reference-formulas/time-intelligence-functions/time-based-aggregations": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Time-based aggregations",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/time-intelligence-functions/time-based-aggregations"
     },
     "plan/planning-reference-formulas/time-intelligence-functions/time-shifting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Time shifting",
       "updated": "2026-10-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-reference-formulas/time-intelligence-functions/time-shifting"
     },
     "plan/planning-row-model/how-to-create-row-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create a row model",
       "updated": "2026-08-13",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-row-model/how-to-create-row-model"
     },
     "plan/planning-row-model/how-to-create-row-model-forecasts": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create forecasts with row model for driver-based planning",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-row-model/how-to-create-row-model-forecasts"
     },
     "plan/planning-row-model/how-to-create-row-model-scenarios": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Perform scenario analysis in row model",
       "updated": "2026-08-25",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-row-model/how-to-create-row-model-scenarios"
     },
     "plan/planning-row-model/how-to-create-templates": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create row model templates",
       "updated": "2026-09-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-row-model/how-to-create-templates"
     },
     "plan/planning-row-model/planning-concept-row-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Row model - the agile driver framework",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-row-model/planning-concept-row-model"
     },
     "plan/planning-row-model/planning-how-to-configure-model-row-properties": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure row properties in a model",
       "updated": "2026-10-29",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-row-model/planning-how-to-configure-model-row-properties"
     },
     "plan/planning-troubleshoot-semantic-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Troubleshoot common issues in planning",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-troubleshoot-semantic-model"
     },
     "plan/planning-tutorial/intelligence/tutorial-10-build-profit-and-loss-intelligence": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 10: Build a P&L intelligence sheet",
       "updated": "2026-09-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/intelligence/tutorial-10-build-profit-and-loss-intelligence"
     },
     "plan/planning-tutorial/intelligence/tutorial-11-planning-sheet-powertable-canvas": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 11: Create a planning sheet, PowerTable, and canvas integration",
       "updated": "2026-09-15",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/intelligence/tutorial-11-planning-sheet-powertable-canvas"
     },
     "plan/planning-tutorial/intelligence/tutorial-9-introduction-to-intelligence-sheets": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 9: Introduction to intelligence sheets",
       "updated": "2026-09-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/intelligence/tutorial-9-introduction-to-intelligence-sheets"
     },
     "plan/planning-tutorial/planning/tutorial-0-introduction": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 0: Introduction and environment setup",
       "updated": "2026-11-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-0-introduction"
     },
     "plan/planning-tutorial/planning/tutorial-1-allocation-collaboration": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 1: Allocation and collaboration",
       "updated": "2026-09-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-1-allocation-collaboration"
     },
     "plan/planning-tutorial/planning/tutorial-2-optimizer": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 2: Optimize data input measures to achieve a target result",
       "updated": "2026-09-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-2-optimizer"
     },
     "plan/planning-tutorial/planning/tutorial-3-forecasting-writeback": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 3: Optimize data input measures to achieve a target result",
       "updated": "2026-09-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-3-forecasting-writeback"
     },
     "plan/planning-tutorial/planning/tutorial-4-measure-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 4: Build a P&L hierarchy using measure model builder",
       "updated": "2026-09-08",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-4-measure-model"
     },
     "plan/planning-tutorial/planning/tutorial-5-row-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 5: Build a P&L hierarchy using row model builder",
       "updated": "2026-11-05",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-5-row-model"
     },
     "plan/planning-tutorial/planning/tutorial-6-cube": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 6: Consolidate plans across dimensions using cubes",
       "updated": "2026-09-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/planning/tutorial-6-cube"
     },
     "plan/planning-tutorial/powertable/tutorial-7-get-started-with-powertable": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 7: Get started with PowerTable",
       "updated": "2026-09-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/powertable/tutorial-7-get-started-with-powertable"
     },
     "plan/planning-tutorial/powertable/tutorial-8-set-up-approvals-access-controls-automations": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Fabric planning tutorial part 8: Set up approvals, access controls, and automations",
       "updated": "2026-09-08",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-tutorial/powertable/tutorial-8-set-up-approvals-access-controls-automations"
     },
     "plan/planning-writeback/planning-how-to-configure-advanced-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure advanced settings",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-configure-advanced-settings"
     },
     "plan/planning-writeback/planning-how-to-configure-data-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure data settings for writeback",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-configure-data-settings"
     },
     "plan/planning-writeback/planning-how-to-configure-destination-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure destination settings for writeback",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-configure-destination-settings"
     },
     "plan/planning-writeback/planning-how-to-configure-event-triggers": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Automate processes with event triggers",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-configure-event-triggers"
     },
     "plan/planning-writeback/planning-how-to-configure-general-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure general settings for writeback",
       "updated": "2026-05-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-configure-general-settings"
     },
     "plan/planning-writeback/planning-how-to-enable-writeback-reading-mode": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Enable writeback in reading mode",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-enable-writeback-reading-mode"
     },
     "plan/planning-writeback/planning-how-to-persist-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Set up writeback to persist data",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-persist-data"
     },
     "plan/planning-writeback/planning-how-to-view-logs": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "View writeback logs",
       "updated": "2026-05-13",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-view-logs"
     },
     "plan/planning-writeback/planning-how-to-write-back-semantic-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Write back planning data to semantic models",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/planning-how-to-write-back-semantic-model"
     },
     "plan/planning-writeback/writeback-faq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Writeback FAQ",
       "updated": "2026-11-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/planning-writeback/writeback-faq"
     },
     "plan/powertable-concept-automation": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Automation",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-concept-automation"
     },
     "plan/powertable-concept-gantt": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Gantt layout",
       "updated": "2026-08-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-concept-gantt"
     },
     "plan/powertable-concept-slowly-changing-dimensions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Slowly changing dimensions",
       "updated": "2026-06-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-concept-slowly-changing-dimensions"
     },
     "plan/powertable-how-to-add-comments": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Comment and collaborate in PowerTable",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-add-comments"
     },
     "plan/powertable-how-to-apply-conditional-formatting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Apply conditional formatting in PowerTable",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-apply-conditional-formatting"
     },
     "plan/powertable-how-to-bulk-edit-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Edit and bulk edit data",
       "updated": "2026-09-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-bulk-edit-data"
     },
     "plan/powertable-how-to-configure-approval-workflow": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Set up approval workflows in PowerTable sheets",
       "updated": "2026-09-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-approval-workflow"
     },
     "plan/powertable-how-to-configure-columns/how-to-configure-column-properties-summary": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure column properties for a PowerTable sheet",
       "updated": "2026-07-09",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-columns/how-to-configure-column-properties-summary"
     },
     "plan/powertable-how-to-configure-columns/how-to-configure-display-column-properties": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure display properties for a column",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-columns/how-to-configure-display-column-properties"
     },
     "plan/powertable-how-to-configure-columns/how-to-configure-general-column-properties": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure general properties for a column",
       "updated": "2026-09-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-columns/how-to-configure-general-column-properties"
     },
     "plan/powertable-how-to-configure-columns/how-to-configure-lookup-relation-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure single select column in a PowerTable sheet",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-columns/how-to-configure-lookup-relation-columns"
     },
     "plan/powertable-how-to-configure-display-formatting-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure display and formatting settings in PowerTable",
       "updated": "2026-07-17",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-display-formatting-settings"
     },
     "plan/powertable-how-to-configure-security-settings": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure data security in PowerTable",
       "updated": "2026-11-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-configure-security-settings"
     },
     "plan/powertable-how-to-connect-existing-database": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create table app by connecting to a database table",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-connect-existing-database"
     },
     "plan/powertable-how-to-connect-semantic-model": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create table app by connecting to a semantic model",
       "updated": "2026-10-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-connect-semantic-model"
     },
     "plan/powertable-how-to-create-automation/how-to-configure-automation-workflows": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure automation workflows",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-create-automation/how-to-configure-automation-workflows"
     },
     "plan/powertable-how-to-create-automation/how-to-configure-integrations": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Integrations in automation",
       "updated": "2026-10-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-create-automation/how-to-configure-integrations"
     },
     "plan/powertable-how-to-create-automation/how-to-create-sample-automation": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build a sample automation",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-create-automation/how-to-create-sample-automation"
     },
     "plan/powertable-how-to-create-automation/how-to-manage-automation": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage automations",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-create-automation/how-to-manage-automation"
     },
     "plan/powertable-how-to-create-slowly-changing-dimension": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create slowly changing dimensions",
       "updated": "2026-06-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-create-slowly-changing-dimension"
     },
     "plan/powertable-how-to-create-table-app": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build a table app using PowerTable by importing an Excel file",
       "updated": "2026-09-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-create-table-app"
     },
     "plan/powertable-how-to-enter-table-data-manually": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create table app by entering data manually",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-enter-table-data-manually"
     },
     "plan/powertable-how-to-explore-organize-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Explore, organize, and summarize data in PowerTable",
       "updated": "2026-08-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-explore-organize-data"
     },
     "plan/powertable-how-to-export-to-excel": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Export PowerTable sheet to Excel",
       "updated": "2026-08-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-export-to-excel"
     },
     "plan/powertable-how-to-export-to-pdf": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Export PowerTable layouts to PDF",
       "updated": "2026-08-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-export-to-pdf"
     },
     "plan/powertable-how-to-filter-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Filter data in PowerTable",
       "updated": "2026-07-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-filter-data"
     },
     "plan/powertable-how-to-generate-forms": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create data entry forms with PowerTable sheets",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-generate-forms"
     },
     "plan/powertable-how-to-group-rows": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Group rows in PowerTable",
       "updated": "2026-07-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-group-rows"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-attachment-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert attachment columns in PowerTable",
       "updated": "2026-07-14",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-attachment-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-button-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert button columns in PowerTable",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-button-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-columns-introduction": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Introduction to inserting PowerTable columns",
       "updated": "2026-08-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-columns-introduction"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-database-column": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert database columns",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-database-column"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-formula-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert formula columns in PowerTable",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-formula-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-multi-select-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert multi-select relationship columns in PowerTable",
       "updated": "2026-08-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-multi-select-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-reference-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert reference columns in PowerTable",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-reference-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-relation-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert relation columns in PowerTable sheet",
       "updated": "2026-08-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-relation-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-rollup-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert rollup columns in PowerTable sheet",
       "updated": "2026-08-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-rollup-columns"
     },
     "plan/powertable-how-to-insert-columns/how-to-insert-visual-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert visual columns in PowerTable",
       "updated": "2026-08-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-columns/how-to-insert-visual-columns"
     },
     "plan/powertable-how-to-insert-rows-import-data": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Insert, import, duplicate, and delete rows",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-insert-rows-import-data"
     },
     "plan/powertable-how-to-manage-columns": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Manage columns in PowerTable sheet",
       "updated": "2026-07-07",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-manage-columns"
     },
     "plan/powertable-how-to-review-approval-workflow": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Review changes in PowerTable approval workflow",
       "updated": "2026-03-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-review-approval-workflow"
     },
     "plan/powertable-how-to-set-up-access-control": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Set up row and column access control",
       "updated": "2026-09-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-set-up-access-control"
     },
     "plan/powertable-how-to-view-audit-logs": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Audit logs in PowerTable",
       "updated": "2026-07-14",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-how-to-view-audit-logs"
     },
     "plan/powertable-layouts/how-to-add-manage-kanban-tasks": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add and manage tasks in Kanban layout",
       "updated": "2026-10-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-add-manage-kanban-tasks"
     },
     "plan/powertable-layouts/how-to-configure-calendar-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure and use calendar layout",
       "updated": "2026-08-14",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-configure-calendar-layout"
     },
     "plan/powertable-layouts/how-to-configure-crosstab-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure and use crosstab layout",
       "updated": "2026-08-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-configure-crosstab-layout"
     },
     "plan/powertable-layouts/how-to-configure-gantt-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure Gantt layout",
       "updated": "2026-08-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-configure-gantt-layout"
     },
     "plan/powertable-layouts/how-to-configure-hierarchy-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure and use hierarchy layout",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-configure-hierarchy-layout"
     },
     "plan/powertable-layouts/how-to-configure-kanban-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure Kanban layout",
       "updated": "2026-10-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-configure-kanban-layout"
     },
     "plan/powertable-layouts/how-to-configure-resource-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure and manage resource layout",
       "updated": "2026-08-16",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-configure-resource-overview"
     },
     "plan/powertable-layouts/how-to-customize-kanban-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Customize Kanban layout",
       "updated": "2026-10-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-customize-kanban-layout"
     },
     "plan/powertable-layouts/how-to-customize-resource-layout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Customize resource layout",
       "updated": "2026-08-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-customize-resource-layout"
     },
     "plan/powertable-layouts/how-to-manage-tasks-resource": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Add and manage tasks in resource layout",
       "updated": "2026-08-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-layouts/how-to-manage-tasks-resource"
     },
     "plan/powertable-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "What are PowerTable sheets in planning?",
       "updated": "2026-07-28",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-overview"
     },
     "plan/powertable-reference-formulas-overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Formulas and functions in PowerTable",
       "updated": "2026-09-21",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-reference-formulas-overview"
     },
     "plan/powertable-reference-supported-column-input-types": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Supported column, input, and attachment types",
       "updated": "2026-06-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/powertable-reference-supported-column-input-types"
     },
     "plan/resources/best-practices/how-to-create-dimension-id-mapping": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Maintain data integrity with dimension ID mapping",
       "updated": "2026-10-05",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/how-to-create-dimension-id-mapping"
     },
     "plan/resources/best-practices/parameters/how-to-configure-parameters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Build interactive controls with parameters",
       "updated": "2026-11-05",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/parameters/how-to-configure-parameters"
     },
     "plan/resources/best-practices/parameters/how-to-create-action-parameters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Run scripts by using action parameters",
       "updated": "2026-11-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/parameters/how-to-create-action-parameters"
     },
     "plan/resources/best-practices/parameters/how-to-create-date-parameters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create date parameters",
       "updated": "2026-11-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/parameters/how-to-create-date-parameters"
     },
     "plan/resources/best-practices/parameters/how-to-create-list-parameters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create list parameters",
       "updated": "2026-11-19",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/parameters/how-to-create-list-parameters"
     },
     "plan/resources/best-practices/parameters/how-to-create-number-parameters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create number parameters",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/parameters/how-to-create-number-parameters"
     },
     "plan/resources/best-practices/parameters/how-to-create-text-parameters": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Create text parameters",
       "updated": "2026-11-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/parameters/how-to-create-text-parameters"
     },
     "plan/resources/best-practices/semantic-modeling": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Semantic modeling best practices for planning in Fabric",
       "updated": "2026-08-04",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/semantic-modeling"
     },
     "plan/resources/best-practices/time-intelligence": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Best practices and supported date formats for automatic time intelligence",
       "updated": "2026-07-26",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/best-practices/time-intelligence"
     },
     "plan/resources/billing-fabric-plan": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Billing and usage for planning in Fabric",
       "updated": "2026-09-11",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/billing-fabric-plan"
     },
     "plan/resources/cicd-planning": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "CI/CD for planning in Fabric",
       "updated": "2026-10-27",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/cicd-planning"
     },
     "plan/resources/error-codes-and-resolutions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Error codes and resolutions",
       "updated": "2026-09-23",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/error-codes-and-resolutions"
     },
     "plan/resources/frequently-asked-questions": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Planning in Fabric general FAQ",
       "updated": "2026-10-01",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/frequently-asked-questions"
     },
     "plan/resources/how-to-create-org-apps": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Planning solutions with org apps",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/how-to-create-org-apps"
     },
     "plan/resources/how-to-manually-map-time-intervals": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Configure time interval mapping for custom date fields",
       "updated": "2026-10-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/how-to-manually-map-time-intervals"
     },
     "plan/resources/powertable-general-faq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "PowerTable general FAQ",
       "updated": "2026-08-31",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/powertable-general-faq"
     },
     "plan/resources/powertable-sheets-creation-faq": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "PowerTable sheets creation FAQ",
       "updated": "2026-08-02",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/resources/powertable-sheets-creation-faq"
     },
     "plan/scripting-functions/hide-visual": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Hide visuals using scripting functions",
       "updated": "2026-11-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/hide-visual"
     },
     "plan/scripting-functions/open-link": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "OPEN LINK",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/open-link"
     },
     "plan/scripting-functions/open-sheet": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "OPEN SHEET",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/open-sheet"
     },
     "plan/scripting-functions/overview": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Scripting functions",
       "updated": "2026-11-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/overview"
     },
     "plan/scripting-functions/refresh-report": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "REFRESH_REPORT function",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/refresh-report"
     },
     "plan/scripting-functions/refresh-visual": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "REFRESH VISUAL",
       "updated": "2026-11-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/refresh-visual"
     },
     "plan/scripting-functions/setbottomn": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETBOTTOMN",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/setbottomn"
     },
     "plan/scripting-functions/setfilter": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETFILTER",
       "updated": "2026-11-18",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/setfilter"
     },
     "plan/scripting-functions/setlayout": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETLAYOUT",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/setlayout"
     },
     "plan/scripting-functions/setnumberformatting": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETNUMBERFORMATTING",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/setnumberformatting"
     },
     "plan/scripting-functions/setscaling": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETSCALING",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/setscaling"
     },
     "plan/scripting-functions/settopbottomn": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETTOPBOTTOMN",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/settopbottomn"
     },
     "plan/scripting-functions/settopn": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETTOPN",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/settopn"
     },
     "plan/scripting-functions/setvisibility": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SETVISIBILITY",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/setvisibility"
     },
     "plan/scripting-functions/show-message": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SHOW_MESSAGE",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/show-message"
     },
     "plan/scripting-functions/show-visual": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Show visuals using scripting functions",
       "updated": "2026-11-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/show-visual"
     },
     "plan/scripting-functions/showclosedforecast": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "SHOWCLOSEDFORECAST",
       "updated": "2026-11-06",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/showclosedforecast"
     },
     "plan/scripting-functions/showmeasures": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Show or hide measures using scripting functions",
       "updated": "2026-11-10",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/scripting-functions/showmeasures"
     },
     "plan/sharing-plan-artifact": {
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "title": "Share a plan item with users outside the workspace",
       "updated": "2026-09-30",
       "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/sharing-plan-artifact"
